@@ -39,15 +39,20 @@ export default function Home() {
             <p>
               Open to internships and new projects.{" "}
               <a className="hl" style={accent("#ffc61a")} href={`mailto:${profile.email}`}>
-                Email me
+                pranavshewale131@gmail.com
               </a>
               , or find me on{" "}
               <a className="hl" style={accent("#8b7bff")} href={profile.github}>
                 GitHub
               </a>{" "}
               and{" "}
-              <a className="hl" style={accent("#22d3ee")} href={profile.linkedin}>
+              <a className="hl" style={accent("#223aee")} href={profile.linkedin}>
                 LinkedIn
+              </a>
+              </a>{" "}
+              and{" "}
+              <a className="hl" style={accent("#00ddff")} href={profile.x}>
+                X
               </a>
               .
             </p>
