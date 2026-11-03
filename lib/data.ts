@@ -3,8 +3,9 @@ export const profile = {
   title: "AI/ML engineer",
   email: "pranavshewale131@gmail.com",
   // TODO: replace with your real profile URLs
-  github: "https://github.com/your-username",
-  linkedin: "https://www.linkedin.com/in/your-username",
+  github: "https://github.com/PamX017",
+  linkedin: "https://www.linkedin.com/in/pranav-ramesh-shewale-695969268",
+  X: "https://x.com/PAMX017",
   about:
     "I build machine learning and generative AI projects, from data pipelines and models to the interfaces around them. Currently studying AI & Data Science and learning by shipping.",
   education:
@@ -17,19 +18,19 @@ export const projects = [
   {
     badge: "Z",
     name: "Zeno AI",
-    desc: "Voice dictation that types into any app using Whisper",
+    desc: "The minimalist, floating voice interface for your desktop.",
     tag: "Voice AI",
     color: "#8b7bff",
     // TODO: replace with the real repo/demo link
-    href: "https://github.com/your-username/zeno-ai",
+    href: "https://github.com/PamX017/zeno-ai",
   },
   {
     badge: "Z",
     name: "Zero-Leak Assistant",
-    desc: "RL testbed for AI agent security on Meta OpenEnv",
+    desc: "A Red-Teaming RL testbed explicitly designed to stress-test future AI models.",
     tag: "RL environment",
     color: "#ffc61a",
-    href: "https://github.com/your-username/zero-leak",
+    href: "https://github.com/PamX017/zero_leak_openenv",
   },
   {
     badge: "A",
@@ -37,7 +38,7 @@ export const projects = [
     desc: "Syllabus and notes hub for diploma students",
     tag: "Android app",
     color: "#ff6b6b",
-    href: "https://github.com/your-username/academicinfo",
+    href: "https://github.com/PamX017/academicinfo",
   },
 ];
 
