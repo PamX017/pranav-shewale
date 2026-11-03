@@ -48,7 +48,6 @@ export default function Home() {
               and{" "}
               <a className="hl" style={accent("#223aee")} href={profile.linkedin}>
                 LinkedIn
-              </a>
               </a>{" "}
               and{" "}
               <a className="hl" style={accent("#00ddff")} href={profile.x}>
