@@ -5,7 +5,7 @@ export const profile = {
   // TODO: replace with your real profile URLs
   github: "https://github.com/PamX017",
   linkedin: "https://www.linkedin.com/in/pranav-ramesh-shewale-695969268",
-  X: "https://x.com/PAMX017",
+  x: "https://x.com/PAMX017",
   about:
     "I build machine learning and generative AI projects, from data pipelines and models to the interfaces around them. Currently studying AI & Data Science and learning by shipping.",
   education:
